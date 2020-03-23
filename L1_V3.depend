@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1583432320 source:g:\program language\labs sem 2\l1_v3\car.cpp
+	<iostream>
+	"Car.h"
+	<string>
+	<cstring>
+
+1583432640 g:\program language\labs sem 2\l1_v3\car.h
+	<string>
+
+1583438842 source:g:\program language\labs sem 2\l1_v3\main.cpp
+	<iostream>
+	"Car.h"
+	<string>
+	<stdlib.h>
+
+1583478710 source:f:\program language\labs sem 2\l1_v3\car.cpp
+	<iostream>
+	"Car.h"
+	<string>
+	<cstring>
+
+1583432640 f:\program language\labs sem 2\l1_v3\car.h
+	<string>
+
+1583478446 source:f:\program language\labs sem 2\l1_v3\main.cpp
+	<iostream>
+	"Car.h"
+	<string>
+	<stdlib.h>
+
+1582287962 source:d:\program language\labs sem 2\l1_v3\car.cpp
+	<iostream>
+	"Car.h"
+	<string>
+	<cstring>
+
+1582287098 d:\program language\labs sem 2\l1_v3\car.h
+	<string>
+
+1583158136 source:d:\program language\labs sem 2\l1_v3\main.cpp
+	<iostream>
+	"Car.h"
+	<string>
+	<stdlib.h>
+
+1583478710 source:e:\program language\labs sem 2\l1_v3\car.cpp
+	<iostream>
+	"Car.h"
+	<string>
+	<cstring>
+
+1583432640 e:\program language\labs sem 2\l1_v3\car.h
+	<string>
+
+1583478720 source:e:\program language\labs sem 2\l1_v3\main.cpp
+	<iostream>
+	"Car.h"
+	<string>
+	<stdlib.h>
+
